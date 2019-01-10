@@ -1,6 +1,6 @@
 # PSTALN
 
-![Aix-Marseille Université](https://dircom.univ-amu.fr/sites/dircom.univ-amu.fr/files/logo_amu_rvb.jpg)
+![Aix-Marseille Université](https://globalexam.cloud/media/blog/cover/40700/aix-marseille-universite-logo.png)
 
 
 
